@@ -1,0 +1,1 @@
+echo -n $(python -c 'printf "A"*41') > ft magic 
